@@ -75,4 +75,4 @@ echo "fixing shebang of $bin"
 termux-fix-shebang $bin
 echo "making $bin executable"
 chmod +x $bin
-echo "You can now launch Ubuntu with the ./${bin} script"
+echo "You can now launch Ubuntu with this ./${bin} script"
